@@ -1,0 +1,190 @@
+﻿[
+{
+"id":1,
+"name":"jQuery精品教程",
+"img":"https://irunmyway.github.io/file/topline/img/video/video_jquery_icon.png",
+"intro":"本视频系统的讲解了jQuery的基本操作并配合相应案例保证学生能较大程度的接受和了解到知识的应用，该视频的起点都是针对有一定JavaScript基础的同学精心设计录制的。通过该视频的学习，相信你能够轻轻松松的掌握jQuery的应用，为学习前端开发打下坚实的基础。",
+"videoDetailList":[
+	{ 
+	"video_id":"DA2D015D371417299C33DC5901307461",
+	"video_name":"01-jQuery初体验"
+	},
+	{
+	"video_id":"8CE6F0EA79D28C409C33DC5901307461",
+	"video_name":"02-什么是jQuery"
+	},
+	{
+	"video_id":"105420027A12F7869C33DC5901307461",
+	"video_name":"03-jQuery版本问题"
+	},
+	{
+	"video_id":"2B6B824CB0FB90209C33DC5901307461",
+	"video_name":"04-jQuery入口函数的解释"
+	},
+	{
+	"video_id":"FE97256B916E64779C33DC5901307461",
+	"video_name":"05-jq对象与js对象"
+	}
+	]
+},
+{
+"id":2,
+"name":"Redis实战",
+"img":"https://irunmyway.github.io/file/topline/img/video/video_resdis_icon.png",
+"intro":"Redis简述（包括关系型数据库和非关系型数据库的区别及关系，非关系型数据库的产品介绍，Redis简介）2.2、Redis客户端和服务器的安装、配置、测试运行2.3、Redis数据类型及业务环境2.4、Redis命令-String命令2.5、Redis命令-Hash命令2.6、Redis命令-list命令2.7、Redis命令-set命令2.8、Redis命令-sortedSet命令2.9、Jedis技术2.10、通用Redis命令2.11、Redis-消息订阅与发布2.12、Redis-多数据库操作2.13、Redis-事务操作2.14、Redis-了解命令2.15、Redis-持久化操作",
+"videoDetailList":[
+	{ 
+	"video_id":"B752866FFB0D6BED9C33DC5901307461",
+	"video_name":"01redis常用命令-list介绍"
+	},
+	{
+	"video_id":"62C2BA8F475B9BA79C33DC5901307461",
+	"video_name":"02redis常用命令-list命令-常用命令-查询元素操作"
+	},
+	{
+	"video_id":"2D35E64E9749D3CA9C33DC5901307461",
+	"video_name":"03redis常用命令-list命令-常用命令-两端添加操作"
+	},
+	{
+	"video_id":"C830D61E98DC155A9C33DC5901307461",
+	"video_name":"04redis常用命令-list命令-常用命令-两端删除操作"
+	},
+	{
+	"video_id":"4863213559F7A3E29C33DC5901307461",
+	"video_name":"05redis常用命令-list命令-扩展命令（一）"
+	},
+	{
+	"video_id":"BE41A7C8B59740269C33DC5901307461",
+	"video_name":"06redis常用命令-list命令-扩展命令（二）"
+	}
+	]
+},
+{
+"id":3,
+"name":"UI实战项目",
+"img":"https://irunmyway.github.io/file/topline/img/video/video_ui_icon.png",
+"intro":"手机app设计，ios移动端界面设计",
+"videoDetailList":[
+	{ 
+	"video_id":"18DB88C71F6BEDF39C33DC5901307461",
+	"video_name":"01-互联网行业技术发展"
+	},
+	{
+	"video_id":"442E88351C50BBE19C33DC5901307461",
+	"video_name":"02-尺寸规范-1"
+	},
+	{
+	"video_id":"17AEF800C3F15E529C33DC5901307461",
+	"video_name":"03-尺寸规范-2"
+	},
+	{
+	"video_id":"3CD2109ABD5EC0B49C33DC5901307461",
+	"video_name":"04-尺寸规范-3"
+	},
+	{
+	"video_id":"3656B5C9D18A3B199C33DC5901307461",
+	"video_name":"05-宏观的产品流程"
+	},
+	{
+	"video_id":"F9436A941DF6A85E9C33DC5901307461",
+	"video_name":"06-宏观的产品流程"
+	},
+	{
+	"video_id":"41C8B4C05755280C9C33DC5901307461",
+	"video_name":"07-图标分析"
+	},
+	{
+	"video_id":"75209912FE175DE79C33DC5901307461",
+	"video_name":"08-图标设计-基本形状"
+	}
+	]
+},
+{
+"id":4,
+"name":"网上商城",
+"img":"https://irunmyway.github.io/file/topline/img/video/video_java_icon.png",
+"intro":"引入MVC设计模式，技术点有:servlet的常见api、Redis、ajax、BootStrap、Filter、解耦合思想、动态代理的应用、layer等。",
+"videoDetailList":[
+	{ 
+	"video_id":"1AF2A1467D218E209C33DC5901307461",
+	"video_name":"001_商城的演示"
+	},
+	{
+	"video_id":"F97880DF1F1606309C33DC5901307461",
+	"video_name":"002_商城中实体分析"
+	},
+	{
+	"video_id":"D01C970FEBE252BA9C33DC5901307461",
+	"video_name":"003_环境搭建"
+	},
+	{
+	"video_id":"AEFEA36DA3055B6C9C33DC5901307461",
+	"video_name":"004_通用servlet抽取分析"
+	}
+	]
+},
+{
+"id":5,
+"name":"JNI教程",
+"img":"https://irunmyway.github.io/file/topline/img/video/video_jni_icon.png",
+"intro":"jni概念、交叉编译、ndk目录、jni开发流程、java向C传递数据、C代码中向logcat输出日志、C回调java方法等",
+"videoDetailList":[
+	{ 
+	"video_id":"CED6F236822F577F9C33DC5901307461",
+	"video_name":"01_四大组件回顾"
+	},
+	{
+	"video_id":"588414789F8261209C33DC5901307461",
+	"video_name":"02_jni简介"
+	},
+	{
+	"video_id":"7C7374A4DB055D099C33DC5901307461",
+	"video_name":"03_chelloworld"
+	},
+	{
+	"video_id":"2042F59D28730E759C33DC5901307461",
+	"video_name":"04_c的基本数据类型"
+	},
+	{
+	"video_id":"C2C6C1649270DAB09C33DC5901307461",
+	"video_name":"05_c的输出函数"
+	}
+	]
+},
+{
+"id":6,
+"name":"自媒体",
+"img":"https://irunmyway.github.io/file/topline/img/video/video_media_icon.png",
+"intro":"自媒体月入8000核心策略",
+"videoDetailList":[
+	{ 
+	"video_id":"D9B5334F29A2CA469C33DC5901307461",
+	"video_name":"1-自媒体月入8000核心策略"
+	}
+	]
+},
+{
+"id":7,
+"name":"MFC教程",
+"img":"https://irunmyway.github.io/file/topline/img/video/video_c_icon.png",
+"intro":"第一天(Win消息机制、SDK编程基础)第二天(对话框、常用控件、文档和视图)第三天(综合案例：销售信息管理系统)",
+"videoDetailList":[
+	{ 
+	"video_id":"CC64EB602031C45E9C33DC5901307461",
+	"video_name":"01_mfc课程安排"
+	},
+	{
+	"video_id":"8002DA7F236A263E9C33DC5901307461",
+	"video_name":"02_底层窗口实现（一）_WinMain入口函数"
+	},
+	{
+	"video_id":"A8959C2D57B521A19C33DC5901307461",
+	"video_name":"03_底层窗口实现（二）_创建窗口的前五步"
+	},
+	{
+	"video_id":"F0B07D2892DE91C79C33DC5901307461",
+	"video_name":"04_底层窗口现实（三）_窗口过程处理"
+	}
+	]
+}
+]
